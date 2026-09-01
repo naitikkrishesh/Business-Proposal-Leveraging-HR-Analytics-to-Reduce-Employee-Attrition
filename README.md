@@ -1,2 +1,2 @@
-# Business-Proposal-Leveraging-HR-Analytics-to-Reduce-Employee-Attrition
+# Employee Attrition Prediction
 Created a business proposal based on the given dataset. Through data and market analysis, identified the client’s key business problem—employee attrition—and proposed data-driven solutions. Conducted market analysis, ex- ploratory data analysis (EDA), built and evaluated machine learning models, and presented actionable recommen- dations.
